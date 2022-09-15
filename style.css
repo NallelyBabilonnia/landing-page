@@ -136,3 +136,35 @@ width: 800px;
     margin-left: 610px;
 
 }
+
+.four {
+    height: 200px ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+    
+.four-box{
+        border: #3882f6 solid 1px;
+        background-color: #3882f6;
+        color: #F9FAF8;
+        border-radius: 5px;
+        width: 1000px;  
+        display: flex;
+        justify-content: space-around;
+        height: 100px;
+        align-items: center;
+    }
+    
+.four-title{
+        font-weight: bold;
+    }
+    
+.sign-up2 {
+        background-color: #3882f6;
+        border: 1px #F9FAF8 solid;
+        color: #F9FAF8;
+        padding: 5px 25px;
+        border-radius: 5px;
+    
+    }
