@@ -2,3 +2,32 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin: 0%;
 }
+
+.header {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: space-around;
+    height: 60px;
+}
+
+.header-logo {
+    color: #F9FAF8;
+    font-size: 24px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    margin: 0;
+    padding: 0px;
+}
+
+.header-links {
+    list-style-type: none;
+    display: flex;
+    gap: 30px;
+    margin-top: 23px;
+    }
+
+a {
+    color: #F9FAF8;
+    text-decoration: none;
+}
