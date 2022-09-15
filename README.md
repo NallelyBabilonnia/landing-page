@@ -1,2 +1,13 @@
 # landing-page
-The Odin Project: Landing Page.  Foundations Course Introduction For this project you’ll be creating an entire web page from a design we’ll provide for you. If you’ve been following along you should have the skills you need to accomplish this, but it may not be easy!  The design we’re providing you comes in the form of 2 images: one is an image of the complete websit
+The Odin Project: Foundations Course.
+Landing Page.  
+
+For this project I’ll be creating an entire web page from a design they have provide.
+They’re providing me with 2 images: one is an image of the complete website and one has some details about some of the fonts and colors they’ve used.
+
+I need to get my project as close as I can to the design but not to worry about getting it pixel-perfect.
+The point of this assignment is to create something from scratch and get the various elements in more or less the right position relative to the rest.
+
+Finally, I am free to substitute my own content into this design. 
+
+Here I go...
