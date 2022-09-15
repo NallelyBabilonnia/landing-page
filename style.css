@@ -79,3 +79,38 @@ img {
   display: flex;
   margin-top: 103px;
 }
+
+.two-A {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-top: 30px;
+}
+
+.two-B {
+    display: flex;
+    justify-content: center;
+    height: 350px;
+  }
+
+.two-Bbox {
+    width: 200px;
+}
+
+.space-pic {
+    width: 150px;
+    height: 300px;
+    margin-top: 20px;
+    margin-left: 25px;
+     }
+
+.text {
+    color: #1f2937;
+    width: 150px;
+    margin-top: 0px;
+    margin-left: 25px;
+}
